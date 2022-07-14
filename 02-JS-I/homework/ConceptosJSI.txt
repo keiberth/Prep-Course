@@ -1,0 +1,9 @@
+Variables: Son un espacio de memoria, donde se puede almacenar informacion, con las cuales puedes almacenar datos para luego usarlos.
+
+Strings: Son una cadena de textos, compuesta po uno o mas caracteres, deben estar dentro de comillas simples o dobles.
+
+Funciones: Son fragmentos de codigos que cumplen como lo dice una funcion y pueden ser reutilizados, estos suelen solicitar argumentos para operar dentro y retornan un valor, sus variables internas solo se pueden usar dentro de la funcion.
+
+Declaraciones if: Son una condicional que debe cumplir algun argumento para cumplir una funcion.
+
+Valores booleanos. Son valores que representan por ejemplo un si o no, si cumple una condicion.
